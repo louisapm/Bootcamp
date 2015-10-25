@@ -1,0 +1,33 @@
+html{border:10px solid  grey;
+    border-style:double;
+    margin-left:250px;
+    margin-right:250px;
+}
+body{background-color: white;
+    font-size:15px;
+    font-family:"Bangla Sangam MN";
+    color:black;
+    text-align:center;
+    border:10px solid  white;
+    margin-left:150px;
+    margin-right:150px;
+}
+img{width:70% !important;
+	border:3px solid grey;
+	border-spacing:
+}
+h1{font-weight:900;
+}
+h2 {font-weight:900;
+	border-top:3px solid grey;
+	border-bottom:3px solid grey;
+	margin-left:110px;
+	margin-right:110px;
+}
+h3{font-weight:900;
+}
+
+p{
+	margin-left: 150px !important; <!-- überschreibt alles andere! Don'T use too often!-->
+	margin-right: 150px !important;
+}
